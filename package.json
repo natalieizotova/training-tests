@@ -1,0 +1,14 @@
+{
+  "name": "training-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy: run": "cypress run"
+  },
+  "author": "Natalie",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
